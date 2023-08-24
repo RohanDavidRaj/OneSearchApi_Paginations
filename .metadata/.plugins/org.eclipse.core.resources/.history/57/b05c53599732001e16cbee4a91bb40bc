@@ -1,0 +1,5 @@
+package com.rohan.searchapi.dao;
+
+public interface employeeDao {
+
+}

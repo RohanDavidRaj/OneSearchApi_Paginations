@@ -1,0 +1,5 @@
+package com.rohan.searchapi.entity;
+
+public class Employee {
+
+}

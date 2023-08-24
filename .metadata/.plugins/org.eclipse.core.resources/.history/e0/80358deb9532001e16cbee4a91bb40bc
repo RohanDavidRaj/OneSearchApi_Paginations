@@ -1,0 +1,5 @@
+package com.rohan.searchapi.service;
+
+public interface Service {
+
+}

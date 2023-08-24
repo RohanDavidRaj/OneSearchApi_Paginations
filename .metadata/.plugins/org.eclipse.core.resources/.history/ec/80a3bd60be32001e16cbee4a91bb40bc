@@ -1,0 +1,11 @@
+package com.rohan.searchapi.service;
+
+import java.util.List;
+
+import com.rohan.searchapi.entity.Employee;
+
+public interface EmpService {
+	
+	Employee save(Employee Employee);
+     List<Employee> searchEmployees(Double salary, String designation, Long id, String name);
+}
